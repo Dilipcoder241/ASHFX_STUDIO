@@ -1,6 +1,11 @@
 import { AnimatedTestimonials } from "@/components/ui/animated-testimonials";
 import { Reveal } from "./Reveal";
 import pravinImage from "../../assets/pr.png";
+import srijanImage from "../../assets/shrijan.png";
+import meenalImage from "../../assets/minal.png";
+import { m } from "motion/react";
+import risabhImage from "../../assets/rishabh.png";
+import sahilImage from "../../assets/sahil.png";
 
 
 export function TeamSection() {
@@ -10,28 +15,28 @@ export function TeamSection() {
         "The attention to detail and innovative features have completely transformed our workflow. This is exactly what we've been looking for.",
       name: "Srijan Pandey",
       designation: "Lead Editor",
-      src: "https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?q=80&w=3560&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      src: srijanImage,
     },
     {
       quote:
         "Implementation was seamless and the results exceeded our expectations. The platform's flexibility is remarkable.",
       name: "Sahil Gupta",
       designation: "Video Editor & Motion Graphic Design",
-      src: "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?q=80&w=3540&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      src: sahilImage,
     },
     {
       quote:
         "This solution has significantly improved our team's productivity. The intuitive interface makes complex tasks simple.",
-      name: "Emily Watson",
-      designation: "Operations Director at CloudScale",
-      src: "https://images.unsplash.com/photo-1623582854588-d60de57fa33f?q=80&w=3540&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      name: "Meenal Choudhary",
+      designation: "Model - Representative",
+      src: meenalImage,
     },
     {
       quote:
         "Outstanding support and robust features. It's rare to find a product that delivers on all its promises.",
       name: "Rishabh Sharma",
       designation: "Cinematographer",
-      src: "https://images.unsplash.com/photo-1636041293178-808a6762ab39?q=80&w=3464&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      src: risabhImage,
     },
     {
       quote:
