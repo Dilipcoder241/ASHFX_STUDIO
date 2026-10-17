@@ -16,82 +16,82 @@ globalThis.__nitro_vite_envs__ = services;
 //#endregion
 //#region #nitro/virtual/public-assets-data
 var public_assets_data_default = {
-	"/assets/index-J4moaYlt.js": {
-		"type": "text/javascript; charset=utf-8",
-		"etag": "\"54cc2-nXRf+SM7iR+xa32oX7CsKW3tJ2s\"",
-		"mtime": "2026-10-03T04:02:29.242Z",
-		"size": 347330,
-		"path": "../public/assets/index-J4moaYlt.js"
-	},
 	"/assets/bg-Ux3vx3Pv.jpg": {
 		"type": "image/jpeg",
 		"etag": "\"7052c-py4+92NkZMgd6zImy2OujyMdWxo\"",
-		"mtime": "2026-10-03T04:02:29.244Z",
+		"mtime": "2026-10-03T14:34:18.323Z",
 		"size": 460076,
 		"path": "../public/assets/bg-Ux3vx3Pv.jpg"
 	},
-	"/assets/routes-FeLXhIEK.js": {
+	"/assets/index-BT6hLidz.js": {
 		"type": "text/javascript; charset=utf-8",
-		"etag": "\"2ad06-QxAaz51V6zVgCvaFuyLtVXodk3w\"",
-		"mtime": "2026-10-03T04:02:29.242Z",
+		"etag": "\"53067-obHC7eVHZ7I0TZXCioGBO8+VU0w\"",
+		"mtime": "2026-10-03T14:34:18.322Z",
+		"size": 340071,
+		"path": "../public/assets/index-BT6hLidz.js"
+	},
+	"/assets/routes-BWAt1wA6.js": {
+		"type": "text/javascript; charset=utf-8",
+		"etag": "\"2ad06-UpV6ULiOaZM4GmKoUuAnAt3e5oM\"",
+		"mtime": "2026-10-03T14:34:18.322Z",
 		"size": 175366,
-		"path": "../public/assets/routes-FeLXhIEK.js"
-	},
-	"/assets/styles-BLHwcETd.css": {
-		"type": "text/css; charset=utf-8",
-		"etag": "\"142a2-ExnpYDK8U5HIxGkpC40Y9urZzWs\"",
-		"mtime": "2026-10-03T04:02:29.249Z",
-		"size": 82594,
-		"path": "../public/assets/styles-BLHwcETd.css"
-	},
-	"/assets/work-cafe-DUM0ZD3m.jpg": {
-		"type": "image/jpeg",
-		"etag": "\"1a5a1-R0s5481zTtN64wM4GbwTsIapZ2k\"",
-		"mtime": "2026-10-03T04:02:29.250Z",
-		"size": 107937,
-		"path": "../public/assets/work-cafe-DUM0ZD3m.jpg"
-	},
-	"/assets/work-edit-h1sN2NwJ.jpg": {
-		"type": "image/jpeg",
-		"etag": "\"10e88-6m79Ks1xdYXAzowO13r6U4Oq57o\"",
-		"mtime": "2026-10-03T04:02:29.252Z",
-		"size": 69256,
-		"path": "../public/assets/work-edit-h1sN2NwJ.jpg"
+		"path": "../public/assets/routes-BWAt1wA6.js"
 	},
 	"/assets/sahil-DWMxofBR.png": {
 		"type": "image/png",
 		"etag": "\"70cb8-9RKLHW/3kf9tbEclo59JLIy6clU\"",
-		"mtime": "2026-10-03T04:02:29.248Z",
+		"mtime": "2026-10-03T14:34:18.325Z",
 		"size": 462008,
 		"path": "../public/assets/sahil-DWMxofBR.png"
+	},
+	"/assets/styles-BLHwcETd.css": {
+		"type": "text/css; charset=utf-8",
+		"etag": "\"142a2-ExnpYDK8U5HIxGkpC40Y9urZzWs\"",
+		"mtime": "2026-10-03T14:34:18.326Z",
+		"size": 82594,
+		"path": "../public/assets/styles-BLHwcETd.css"
+	},
+	"/assets/work-edit-h1sN2NwJ.jpg": {
+		"type": "image/jpeg",
+		"etag": "\"10e88-6m79Ks1xdYXAzowO13r6U4Oq57o\"",
+		"mtime": "2026-10-03T14:34:18.327Z",
+		"size": 69256,
+		"path": "../public/assets/work-edit-h1sN2NwJ.jpg"
+	},
+	"/assets/work-cafe-DUM0ZD3m.jpg": {
+		"type": "image/jpeg",
+		"etag": "\"1a5a1-R0s5481zTtN64wM4GbwTsIapZ2k\"",
+		"mtime": "2026-10-03T14:34:18.327Z",
+		"size": 107937,
+		"path": "../public/assets/work-cafe-DUM0ZD3m.jpg"
 	},
 	"/assets/pr-4_61j2dz.png": {
 		"type": "image/png",
 		"etag": "\"831ba-wwp+2yQmjXkDTDYt0pGGHXxPbH0\"",
-		"mtime": "2026-10-03T04:02:29.246Z",
+		"mtime": "2026-10-03T14:34:18.324Z",
 		"size": 537018,
 		"path": "../public/assets/pr-4_61j2dz.png"
-	},
-	"/assets/rishabh-B1JSYLUk.png": {
-		"type": "image/png",
-		"etag": "\"c4c95-2I/U6yYXBGTNct7hWSz67WjKesI\"",
-		"mtime": "2026-10-03T04:02:29.247Z",
-		"size": 806037,
-		"path": "../public/assets/rishabh-B1JSYLUk.png"
 	},
 	"/assets/minal-wtLqY8yt.png": {
 		"type": "image/png",
 		"etag": "\"f124c-QCreBhcCvKW8uPuQvMfOsuhwd2A\"",
-		"mtime": "2026-10-03T04:02:29.245Z",
+		"mtime": "2026-10-03T14:34:18.323Z",
 		"size": 987724,
 		"path": "../public/assets/minal-wtLqY8yt.png"
 	},
 	"/assets/shrijan-bn-F01g2.png": {
 		"type": "image/png",
 		"etag": "\"81fe3-cSZAqGVatFBxym5vlhzECen3xgU\"",
-		"mtime": "2026-10-03T04:02:29.249Z",
+		"mtime": "2026-10-03T14:34:18.326Z",
 		"size": 532451,
 		"path": "../public/assets/shrijan-bn-F01g2.png"
+	},
+	"/assets/rishabh-B1JSYLUk.png": {
+		"type": "image/png",
+		"etag": "\"c4c95-2I/U6yYXBGTNct7hWSz67WjKesI\"",
+		"mtime": "2026-10-03T14:34:18.325Z",
+		"size": 806037,
+		"path": "../public/assets/rishabh-B1JSYLUk.png"
 	},
 	"/icons.svg": {
 		"type": "image/svg+xml",
